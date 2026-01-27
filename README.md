@@ -1,9 +1,11 @@
 # Pametni Ugovor - Domaći Zadatak 3
 
 ## Opis
-Najjednostavniji pametni ugovor napisan u Solidity programskom jeziku za predmet Ekosistemi elektronskog poslovanja.
+
+Pametni ugovor napisan u Solidity programskom jeziku
 
 ## Fajlovi
+
 - `SimpleContract.sol` - glavni fajl pametnog ugovora
 
 ## Kako koristiti
@@ -14,8 +16,7 @@ Najjednostavniji pametni ugovor napisan u Solidity programskom jeziku za predmet
 4. Kompajliraj (Solidity Compiler)
 5. Deploy (Deploy & Run Transactions)
 
-## Autor
-Student - Ekosistemi elektronskog poslovanja
-
 ## Licenca
+
+try on https://remix.ethereum.org/
 MIT
